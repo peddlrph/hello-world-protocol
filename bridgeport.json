@@ -1,8 +1,8 @@
 {
   "bridgeport": "0.2.0",
-  "id": "1Prq8NfyBH2mGaGG3jPcbfgH4JXj5aK9sN",
+  "id": "1L2bkitB9kGoJjQeahvwTgCCt9iCtrwTko",
   "name": "Hello World Protocol",
-  "description": "Create your first simple Bitcoin-powered app",
+  "description": "This is my first simple Bitcoin-powered app",
   "version": "1.0.0",
   "repoToken":"pHXlZZTdLtFxrYK5",
   "reader": {
