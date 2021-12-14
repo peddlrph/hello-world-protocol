@@ -2,9 +2,9 @@
   "bridgeport": "0.2.0",
   "id": "1L2bkitB9kGoJjQeahvwTgCCt9iCtrwTko",
   "name": "Hello World Protocol",
-  "description": "This is my first simple Bitcoin-powered app",
+  "description": "This is my first simple Babbage app",
   "version": "1.0.0",
-  "repoToken":"pHXlZZTdLtFxrYK5",
+  "repoToken":"BJht++pvlA1ixKju",
   "reader": {
     "runtime": "nodejs14",
     "directory": "./reader"
